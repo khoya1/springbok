@@ -1,0 +1,22 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+out/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
