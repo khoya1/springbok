@@ -65,8 +65,8 @@ src/drawingTool/
 3. Run `DrawingTool.java` as a Java application.
 
 ## Screenshots
-
-> Add a screenshot here once running!
+ Here is a screenshot of the springbok.
+ <img src="springbokphoto.png" style="width: 280px; height: 280px;">
 
 ## License
 
