@@ -70,4 +70,4 @@ src/drawingTool/
 
 ## License
 
-This project was created as a learning exercise. Feel free to use and adapt it.
+This project was created as a learning exercise at HAW Hamburg University. 
